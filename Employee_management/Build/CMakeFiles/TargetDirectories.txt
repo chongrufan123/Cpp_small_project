@@ -1,0 +1,3 @@
+/home/aimafan/Documents/code/my_repositories/Cpp-project/Employee_management/Build/CMakeFiles/rebuild_cache.dir
+/home/aimafan/Documents/code/my_repositories/Cpp-project/Employee_management/Build/CMakeFiles/edit_cache.dir
+/home/aimafan/Documents/code/my_repositories/Cpp-project/Employee_management/Build/CMakeFiles/main.dir
